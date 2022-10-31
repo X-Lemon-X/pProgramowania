@@ -1,13 +1,4 @@
-jakis tam plik
+##info
 
-#heder
-git 
-costamstatus
+wszytskie programy na ćwiczenia i laby
 
-
-kolejna zmiana
-
-dodanie niepotrzebnego opisu
-
-
-hi boy
