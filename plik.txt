@@ -3,3 +3,6 @@ zawartość
 
 
 zmieniam zawartości pliko
+
+
+dodałem cos do pliku
